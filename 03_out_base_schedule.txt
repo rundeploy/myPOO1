@@ -1,0 +1,60 @@
+All accounts:
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+alicia@lockgard.com STAFF
+kalinda@lockgard.com STAFF
+peter@gmail.com EXTERNAL
+will@lockgard.com BOSS
+cary@lockgard.com STAFF
+
+All events for this user:
+
+Event scheduled.
+
+All events for this user:
+(alicia@lockgard.com) dinner party 2014 4 4 20 1 0 0 0
+
+Event scheduled.
+
+All events for this user:
+(alicia@lockgard.com) dinner party 2014 4 4 20 1 0 0 0
+(alicia@lockgard.com) court session 2014 4 3 15 1 0 0 0
+
+All events for this user:
+
+Event scheduled.
+
+Event scheduled.
+
+Event scheduled.
+
+All events for this user:
+(diane@lockgard.com) prevent embarrassing dinner party 2014 4 4 20 1 0 0 0
+(diane@lockgard.com) meet with will 2014 4 4 22 1 0 0 0
+(diane@lockgard.com) get new investor 2014 4 4 12 1 0 0 0
+
+All events for this user:
+
+Event scheduled.
+
+All events for this user:
+(cary@lockgard.com) be stabbed in the back by partners 2014 5 30 9 1 0 0 0
+
+Exiting...
+

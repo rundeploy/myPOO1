@@ -1,0 +1,27 @@
+All accounts:
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+alicia@lockgard.com STAFF
+kalinda@lockgard.com STAFF
+peter@gmail.com EXTERNAL
+will@lockgard.com BOSS
+cary@lockgard.com STAFF
+
+Exiting...
+

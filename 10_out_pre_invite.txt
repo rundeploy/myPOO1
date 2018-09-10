@@ -1,0 +1,51 @@
+Account does not exist.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account does not exist.
+
+Event scheduled.
+
+Guest invited.
+
+Account does not exist.
+
+Event does not exist.
+
+Guest is already invited.
+
+Event scheduled.
+
+Guest invited.
+
+Event scheduled.
+
+Guest is already in another event.
+
+All events for this user:
+(diane@lockgard.com) share a bottle of wine with alicia 2014 7 19 22 1 0 0 0
+
+All events for this user:
+(alicia@lockgard.com) break up with peter 2014 3 12 19 1 0 0 1
+(will@lockgard.com) date with alicia 2014 7 19 22 2 0 0 0
+
+All events for this user:
+(will@lockgard.com) date with alicia 2014 7 19 22 2 0 0 0
+
+All events for this user:
+(alicia@lockgard.com) break up with peter 2014 3 12 19 1 0 0 1
+
+Exiting...
+

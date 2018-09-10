@@ -1,0 +1,69 @@
+All accounts:
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+
+Account already exists.
+
+Account already exists.
+
+Account already exists.
+
+All accounts:
+diane@lockgard.com BOSS
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+alicia@lockgard.com STAFF
+kalinda@lockgard.com STAFF
+peter@gmail.com EXTERNAL
+will@lockgard.com BOSS
+cary@lockgard.com STAFF
+
+Account already exists.
+
+Account already exists.
+
+All accounts:
+diane@lockgard.com BOSS
+alicia@lockgard.com STAFF
+kalinda@lockgard.com STAFF
+peter@gmail.com EXTERNAL
+will@lockgard.com BOSS
+cary@lockgard.com STAFF
+
+Unknown account type.
+
+Unknown account type.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+All accounts:
+diane@lockgard.com BOSS
+alicia@lockgard.com STAFF
+kalinda@lockgard.com STAFF
+peter@gmail.com EXTERNAL
+will@lockgard.com BOSS
+cary@lockgard.com STAFF
+zach@gmail.com EXTERNAL
+jackie@gmail.com EXTERNAL
+grace@yahoo.com EXTERNAL
+
+Exiting...
+

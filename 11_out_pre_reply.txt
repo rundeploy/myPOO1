@@ -1,0 +1,85 @@
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Account was registered.
+
+Event scheduled.
+
+Guest invited.
+
+Event scheduled.
+
+Event scheduled.
+
+Event scheduled.
+
+Guest invited.
+
+Guest invited.
+
+Participation status updated.
+
+Participation status updated.
+
+Account does not exist.
+
+Account does not exist.
+
+Account does not exist.
+
+Event does not exist.
+
+Event does not exist.
+
+User was not invited to this event.
+
+Event scheduled.
+
+Guest invited.
+
+Event participation is mandatory.
+
+Event scheduled.
+
+Guest invited.
+
+Event scheduled.
+
+Guest invited.
+
+Guest invited.
+
+Guest invited.
+
+All events for this user:
+(diane@lockgard.com) meet with will 2014 4 4 22 2 0 0 0
+(diane@lockgard.com) get new investor 2014 4 4 12 3 0 0 1
+
+All events for this user:
+(alicia@lockgard.com) break up with peter 2014 3 12 19 1 0 0 1
+(alicia@lockgard.com) think will 2014 3 12 20 1 0 0 0
+(alicia@lockgard.com) dinner party 2014 4 4 20 3 0 0 0
+(alicia@lockgard.com) court session 2014 4 3 15 1 0 0 0
+
+All events for this user:
+(diane@lockgard.com) meet with will 2014 4 4 22 2 0 0 0
+(diane@lockgard.com) get new investor 2014 4 4 12 3 0 0 1
+
+All events for this user:
+
+Event scheduled.
+
+All events for this user:
+(cary@lockgard.com) be stabbed in the back by partners 2014 5 30 9 1 0 0 0
+
+Exiting...
+
